@@ -1,5 +1,5 @@
 {
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "files.autoSave": "afterDelay",
     "workbench.sideBar.location": "right",
     "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
@@ -36,5 +36,6 @@
     ],
     "explorer.confirmDelete": false,
     "git.confirmSync": false,
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
     
 }
