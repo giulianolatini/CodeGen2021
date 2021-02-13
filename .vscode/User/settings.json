@@ -1,5 +1,5 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "vscode-icons",
     "files.autoSave": "afterDelay",
     "workbench.sideBar.location": "right",
     "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
