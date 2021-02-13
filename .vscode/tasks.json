@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": ".vscode/extensions/equinusocio.vsc-material-theme-33.1.2/",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "npm: build - .vscode/extensions/equinusocio.vsc-material-theme-33.1.2",
+			"detail": "yarn cleanup && yarn build:ts && yarn build:generate-themes && yarn build:ui"
+		}
+	]
+}

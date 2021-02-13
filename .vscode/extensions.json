@@ -1,0 +1,36 @@
+{
+    "recommendations": [
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-azuretools.vscode-docker",
+        "tiibun.vscode-docker-ws",
+        "dunstontc.vscode-docker-syntax",
+        "tqrhsn.vscode-docker-registry-explorer",
+        "jeff-hykin.better-dockerfile-syntax",
+        "marquesmps.dockerfile-validator",
+        "pflannery.vscode-versionlens",
+        
+        "piotrpalarz.vscode-gitignore-generator",
+        "gruntfuggly.todo-tree",
+
+        "scottsauber.blazorsnippets",
+        "syncfusioninc.blazor-vscode-extensions",
+        "adrianwilczynski.blazor-snippet-pack",
+        "kevin-chatham.aspnetcorerazor-html-css-class-completion",
+        "austincummings.razor-plus",
+
+        "foxundermoon.shell-format",
+        "docsmsft.docs-yaml",
+        "bbenoist.shell",
+        "kukushi.pasteurl",
+        "mdw.vscode-todo-plus-plus",
+        "blunt1337.todo-language",
+        "andyyaldoo.vscode-json",
+        "zainchen.json",
+        "bishopcodes.vscode-pfw",
+        "yzane.markdown-pdf",
+        "vscode-icons-team.vscode-icons",
+        "pkief.material-icon-theme",
+        "equinusocio.vsc-material-theme",
+        "whizkydee.material-palenight-theme"
+    ]
+}

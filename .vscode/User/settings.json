@@ -1,0 +1,40 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "workbench.sideBar.location": "right",
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "300",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 18,
+    "editor.renderWhitespace": "all",
+    "debug.console.fontSize": 16,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontFamily": "Cascadia Code PL",
+    "terminal.integrated.fontWeight": "400",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "window.zoomLevel": 0,
+    "git.autofetch": true,
+    "git.enableCommitSigning": true,
+    "todo-tree.tree.showScanModeButton": false,
+    "gitlens.defaultDateFormat": "DD MMMM YYYY, hh:mm",
+    "gitlens.defaultDateShortFormat": "D/MM/YY",
+    "gitlens.defaultTimeFormat": "hh:mm",
+    "terminal.integrated.allowMnemonics": true,
+    "yaml.schemas": {
+        "file:///toc.schema.json": "/toc\\.yml/i"
+    },
+    "[powershell]": {
+        "files.encoding": "utf8bom",
+        "files.autoGuessEncoding": true
+    },
+    "powershell.powerShellAdditionalExePaths": [
+        {
+            "exePath": "C:\\Users\\tyler\\Downloads\\PowerShell\\7\\pwsh.exe",
+            "versionName": "Downloaded PowerShell"
+        }
+    ],
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    
+}
